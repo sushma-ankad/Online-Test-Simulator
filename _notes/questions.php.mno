@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Questions" value="name:id;datatype:int,name:question;datatype:blob,name:a1;datatype:string,name:a2;datatype:string,name:a3;datatype:string,name:a4;datatype:string,name:answer;datatype:string" />
+</info>

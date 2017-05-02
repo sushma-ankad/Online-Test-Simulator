@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Insert" value="name:id;datatype:int,name:name;datatype:string,name:USN;datatype:string,name:Sem;datatype:int,name:Department;datatype:string,name:timestamp;datatype:timestamp" />
+</info>
